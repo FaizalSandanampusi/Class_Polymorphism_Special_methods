@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/Class_Polymorphism_Special_methods/workflows/Python%20Tests/badge.svg?label=passingcolor=greentimestamp=1733164297)
+
 # AdvancedNumber: Exploring Polymorphism and Special Methods in Python
 
 The `AdvancedNumber` class demonstrates how to use **special methods** in Python to create a custom numerical type that behaves like built-in types, while also introducing the concept of **polymorphism**.
